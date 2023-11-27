@@ -8,10 +8,11 @@
 ### --> GVHD đã duyệt
 
 ## Tuần 2: Từ ngày 20/11/2023 đến 26/11/2023
-- Đã xây dựng bố cục cho trang web, gồm các phần chính:
+- Đã xây dựng bố cục cơ bản cho trang web, gồm các phần chính:
   - Header: có logo, menu điều hướng
-  - Có sidebar chứa tên/loại sản phẩm
+  - Có sidebar
   - Phần content chính đã hoàn chỉnh chứa các ảnh sản phẩm, có thêm các chức năng đơn giản được tạo từ javascript
   - Footer
-* Nhìn chung: giao diện gần như hoàn chỉnh
+    
+
 
