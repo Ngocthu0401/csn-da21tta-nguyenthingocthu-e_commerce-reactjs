@@ -16,29 +16,22 @@ const Navbar = () => {
             <ul className=" link f_flex capitalize" >
               {}
               <li>
-                <Link to='/'>home</Link>
+                <Link to='/'>Trang chủ</Link>
               </li>
+              
               <li>
-                <Link to='/flashDeals'>Flash Deals</Link>
+                <Link to='/'>Về chúng tôi</Link>
               </li>
+              
+             
               <li>
-                <Link to='/user'>user account</Link>
-              </li>
-              <li>
-                <Link to='/vendor'>vendor account</Link>
-              </li>
-              <li>
-                <Link to='/brand'>big brand days</Link>
-              </li>
-              <li>
-                <Link to='/contact'>contact</Link>
+                <Link to='/'>Liên hệ</Link>
               </li>
             </ul>
 
-            <button className='toggle'>
+           
              
-              <i className='fas fa-bars open'></i>
-            </button>
+          
           </div>
         </div>
       </header>

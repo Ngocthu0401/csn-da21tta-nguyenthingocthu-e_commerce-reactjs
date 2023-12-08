@@ -18,9 +18,10 @@ const Search = ({ CartItem }) => {
 
           <div className='search-box f_flex'>
             <i className='fa fa-search'></i>
-            <input type='text' placeholder='Search' />
+            <input type='text' placeholder='Tìm kiếm' />
             <span>All Category</span>
           </div>
+          
 
           <div className='icon f_flex width'>
             <i className='fa fa-user icon-circle'></i>
@@ -38,3 +39,4 @@ const Search = ({ CartItem }) => {
 }
 
 export default Search
+

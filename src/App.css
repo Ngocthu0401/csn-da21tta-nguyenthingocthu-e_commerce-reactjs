@@ -9,10 +9,10 @@ html {
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #ffffff;
+  background-color: #Fff;
 }
 .background {
-  background: #f6f9fc;
+  background: #FFFBF5;
   padding: 50px 0;
 }
 .container {
@@ -60,7 +60,7 @@ button {
   width: 50px;
   height: 50px;
   line-height: 50px;
-  background: #f3f5f9;
+  background: #FFCF96;
   margin-left: 20px;
   text-align: center;
   border-radius: 50%;
@@ -177,10 +177,10 @@ button {
   transition: 0.5s;
 }
 .product-like label {
-  background-color: #8BACAA;
+  background-color: #FFCF96;
   padding: 1px 10px;
   font-size: 12px;
-  color: white;
+  color: red;
   border-radius: 50px;
 }
 .product-like i {
@@ -199,7 +199,7 @@ button {
   width: 50px;
   height: 50px;
   line-height: 60px;
-  background: #8BACAA;
+  background: #FFCCCC;
   border-radius: 50%;
   transform: 0.5s;
   z-index: 5;
@@ -214,7 +214,7 @@ button {
 .control-btn .next i {
   font-size: 20px;
   transition: 0.5s;
-  color: #fff;
+  color: #000;
 }
 .control-btn .prev:hover,
 .control-btn .next:hover {

@@ -1,4 +1,5 @@
 import React from "react"
+import ContactButton from "./ContactButton"
 import "./style.css"
 
 const Cart = ({ CartItem, addToCart, decreaseQty }) => {
@@ -29,8 +30,8 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
                   <div className='cart-details'>
                     <h3>{item.name}</h3>
                     <h4>
-                      ${item.price}.00 * {item.qty}
-                      <span>${productQty}.00</span>
+                      {item.price}.000 đ * {item.qty}
+                      <span>{productQty}.000 đ</span>
                     </h4>
                   </div>
                   <div className='cart-items-function'>
@@ -59,11 +60,15 @@ const Cart = ({ CartItem, addToCart, decreaseQty }) => {
           <div className='cart-total product'>
             <h2>Cart Summary</h2>
             <div className=' d_flex'>
-              <h4>Total Price :</h4>
-              <h3>${totalPrice}.00</h3>
+              <h4>Total Price : </h4>
+              <h4> {totalPrice}.000 đ </h4>
             </div>
           </div>
+        
+         
+
         </div>
+        <ContactButton/>
       </section>
     </>
   )
