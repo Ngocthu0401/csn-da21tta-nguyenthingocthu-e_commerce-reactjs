@@ -14,6 +14,14 @@
   - Phần content chính đã hoàn chỉnh chứa các ảnh sản phẩm, có thêm các chức năng đơn giản được tạo từ javascript
   - Footer
 ### --> GVHD đã duyệt
+
+## Tuần 3: Từ ngày 04/12/2023 đến 10/12/2023
+-	Tạo các chức năng đơn giản như: 
+  - Cho phép người dùng xem sản phẩm.
+  - Cho phép người dùng thêm vào giỏ hàng, cập nhật và xem tổng tiền.
+  - Chạy demo với GVHD.
+  - Viết báo cáo đồ án gửi qua gmail của GVHD.
+
     
 
 
