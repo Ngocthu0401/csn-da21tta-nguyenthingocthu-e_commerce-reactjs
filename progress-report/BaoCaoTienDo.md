@@ -22,6 +22,13 @@
    - Chạy demo với GVHD.
    - Viết báo cáo đồ án gửi qua gmail của GVHD.
 
+## Tuần 4: Từ ngày 18/12/2023 đến 24/12/2023
+- Chỉnh sửa lại các chức năng:
+   - Xem sản phẩm
+   - Thanh tìm kiếm
+- Thêm chức năng Lọc sản phẩm( Lọc theo loại).
+- Chỉnh sửa hình ảnh/banner/giá sản phẩm.
+
     
 
 
