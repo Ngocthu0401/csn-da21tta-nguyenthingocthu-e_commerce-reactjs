@@ -28,6 +28,8 @@
    - Thanh tìm kiếm
 - Thêm chức năng Lọc sản phẩm( Lọc theo loại).
 - Chỉnh sửa hình ảnh/banner/giá sản phẩm.
+- Chạy demo với GVHD.
+- Viết báo cáo đồ án (bản 2) gửi qua gmail của GVHD.
 
     
 
