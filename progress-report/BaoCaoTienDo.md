@@ -31,6 +31,12 @@
 - Chạy demo với GVHD.
 - Viết báo cáo đồ án (bản 2) gửi qua gmail của GVHD.
 
+## Tuần 5: Từ ngày 25/12/2023 đến 31/12/2023
+-	Hoàn thành, chỉnh sửa website và quyển báo cáo.
+-	Nộp quyển báo cáo về bộ môn.
+
+
+
     
 
 
